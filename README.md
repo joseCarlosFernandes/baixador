@@ -25,4 +25,5 @@ no <b>Linux</b>
 <br>
 (botão para pesquisar por diretórios ainda será incluído)
 <br>
+<br>
 Em seguida, no segundo campo, inserir o link do arquivo que deseja baixar e clica em <b>Baixar</b>
