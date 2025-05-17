@@ -23,7 +23,8 @@ ou
 ``
 no <b>Linux</b>
 <br>
+<br>
 (botão para pesquisar por diretórios ainda será incluído)
 <br>
 <br>
-Em seguida, no segundo campo, inserir o link do arquivo que deseja baixar e clica em <b>Baixar</b>
+Em seguida, no segundo campo, inserir o link do arquivo que deseja baixar e clica em <b>Baixar</b>, aguarde alguns segundos (o tempo varia de acordo com o tamanho do arquivo) e o arquivo vai estar pronto dentro do diretório informado.
