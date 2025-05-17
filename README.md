@@ -3,6 +3,7 @@ Um programa em python feito para baixar arquivos da internet direto para o compu
 
 # Como usar:
 Para utilizar o programa basta clonar esse repositório utilizando:
+<br>
 ``sh
 $ git clone https://github.com/joseCarlosFernandes/baixador.git
 ``
