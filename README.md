@@ -22,3 +22,5 @@ ou
 ``
 <br>
 (botão para pesquisar por diretórios ainda será incluído)
+<br>
+Em seguida, no segundo campo, inserir o link do arquivo que deseja baixar e clica em <b>Baixar</b>
