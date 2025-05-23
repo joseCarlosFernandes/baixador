@@ -3,6 +3,7 @@ import os
 import tkinter as tk
 import fD
 
+
 def getCaminho():
     caminho = entry_caminho.get()
     return caminho
