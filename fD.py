@@ -2,6 +2,7 @@ import requests
 import os
 from pathlib import Path
 
+
 def download(url, destino_usr=None):
 
     nome_arquivo = os.path.basename(url.split("?")[0])
