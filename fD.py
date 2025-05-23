@@ -22,7 +22,3 @@ def download(url, destino_usr=None):
     else:
         resposta.raise_for_status()
         return False
-
-#destino = 'downloads'
-#teste_url='https://fatweb.s3.amazonaws.com/vestibularfatec/documentos/2SEM-25/ManualCandidato.pdf?id=202521'
-#download(teste_url, destino)
